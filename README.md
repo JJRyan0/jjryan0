@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![image](https://github.com/JJRyan0/jjryan0/blob/main/img/background.jpg)
 
 ## What I do 👨🏻‍💻
 
