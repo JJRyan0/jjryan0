@@ -24,4 +24,5 @@
 👏🏻 Some additional certifications recently achieved 
 - Simplifying Data Pipelines with Apache Kafka [**Credly link**](https://www.credly.com/badges/105fd5cb-1750-4690-ab75-86aaf63de1e3/linked_in)
 - Operating Kubernetes on IBM Cloud [**Credly link**](https://www.credly.com/badges/a0d091ab-123b-435a-b48c-82cf2d8bc9a4/linked_in)
+- Python for Data Science [**Credly link**](https://www.credly.com/badges/c79e4eb4-7871-4889-a4eb-bbddcf12d3ba/linked_in)
 
