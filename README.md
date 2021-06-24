@@ -15,6 +15,8 @@
 
 - 👾 a wide range of [**R Programming data analysis**](https://github.com/JJRyan0/code-R-notebooks-Rshiny-apps) code.
 
+- 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report)
+
 ## Education
 
 👨🏻‍🎓Studied [**Data Analytics at National College of Ireland**](http://courses.ncirl.ie/index.cfm/page/course/courseId/2372).
