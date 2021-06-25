@@ -16,6 +16,7 @@
 - 👾 a wide range of [**R Programming data analysis**](https://github.com/JJRyan0/code-R-notebooks-Rshiny-apps) code.
 
 - 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report/blob/main/Ecilpse%20BIRT%20Report%20Design%20-%20sum%20of%20order%20by%20product%20type.pdf)
+- 📊 Repository with projects and visualisations built with [**Eclipse Jasper Soft report**](https://github.com/JJRyan0/jasper-soft-reports) designer, includes some useful [**how to documentation**](https://github.com/JJRyan0/jasper-soft-reports/tree/main/How%20to%20documents).
 
 ## Education
 
