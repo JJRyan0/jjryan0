@@ -24,6 +24,8 @@
 
 👨🏻‍🎓Studied an [**MSc in Global Finance Information Systems**](https://www.wit.ie/schools/business/school_of_business/msc_in_gfis) at Waterford Intitute of Technology.
 
+👨🏻‍🎓 Studied a Bachelors Degree In Business at Waterford Intitute of Technology.
+
 👏🏻 Some additional certifications recently achieved 
 - Simplifying Data Pipelines with Apache Kafka [**Credly link**](https://www.credly.com/badges/105fd5cb-1750-4690-ab75-86aaf63de1e3/linked_in)
 - Operating Kubernetes on IBM Cloud [**Credly link**](https://www.credly.com/badges/a0d091ab-123b-435a-b48c-82cf2d8bc9a4/linked_in)
