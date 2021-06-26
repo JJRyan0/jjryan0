@@ -9,13 +9,13 @@
 ## Some Interesting projects of mine
 - 🤖[**Image Recognition App**](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) A neat cloud application built to identify road junction types based on road characteristics and markings from a large number of traffic incident images to help the assessment of automated digital motor claims.
 
-- 🐍 Here’s a link to a range of [**python jupyter notebooks**](https://github.com/JJRyan0/john-python-jupyter-notebooks) with some data analysis projects, from gradient boosting machines, linear regression, logistic regression to random forest classification.Some additional [**data science projects**](https://gist.github.com/JJRyan0).
+- 🐍 Here’s a link to a range of [**python jupyter notebooks**](https://github.com/JJRyan0/john-python-jupyter-notebooks) with some data analysis projects, from gradient boosting machines, linear regression, logistic regression to random forest classification. Some additional [**data science projects**](https://gist.github.com/JJRyan0).
 
 - 🧠 [**Machine learning system**](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) designed to categorise claims in order to speed up the claim denial or approval system in an accelerated automated way.
 
 - 👾 a wide range of [**R Programming data analysis**](https://github.com/JJRyan0/code-R-notebooks-Rshiny-apps) code.
 
-- 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report/blob/main/Ecilpse%20BIRT%20Report%20Design%20-%20sum%20of%20order%20by%20product%20type.pdf)
+- 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report).
 - 📊 Repository with projects and visualisations built with [**Eclipse Jasper Soft report**](https://github.com/JJRyan0/jasper-soft-reports) designer, includes some useful [**how to documentation**](https://github.com/JJRyan0/jasper-soft-reports/tree/main/How%20to%20documents).
 
 ## Education
