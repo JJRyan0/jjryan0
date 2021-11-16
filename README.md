@@ -22,9 +22,9 @@
 
 👨🏻‍🎓Studied [**Data Analytics at National College of Ireland**](http://courses.ncirl.ie/index.cfm/page/course/courseId/2372).
 
-👨🏻‍🎓Studied an [**MSc in Global Finance Information Systems**](https://www.wit.ie/schools/business/school_of_business/msc_in_gfis) at Waterford Intitute of Technology.
+👨🏻‍🎓Studied an [**MSc in Global Finance Information Systems**](https://www.wit.ie/schools/business/school_of_business/msc_in_gfis) at Waterford Institute of Technology.
 
-👨🏻‍🎓 Studied a Bachelors Degree In Business at Waterford Intitute of Technology.
+👨🏻‍🎓 Studied a Bachelors Degree In Business at Waterford Institute of Technology.
 
 👏🏻 Some additional certifications recently achieved 
 - Simplifying Data Pipelines with Apache Kafka [**Credly link**](https://www.credly.com/badges/105fd5cb-1750-4690-ab75-86aaf63de1e3/linked_in)
