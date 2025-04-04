@@ -6,6 +6,8 @@
 
 🔭 Dedicated to providing data Integration and business intelligence solutions to better derive insights from data. I focus on the key outcomes, effective cross-team collaboration and using strong analytical abilities. Being truly passionate about turning data into actionable insights, and meaningful stories. 
 
+## Link to all repostories and projects: https://github.com/JJRyan0?tab=repositories
+
 ## Some Interesting projects of mine
 - 🤖[**Image Recognition App**](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) A neat cloud application which utilises python api calls to send json files to watson AI, the application was built to identify road junction types based on road characteristics and markings from a large number of traffic incident images to help the assessment of automated digital motor claims.
 
