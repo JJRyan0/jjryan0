@@ -20,7 +20,7 @@
 
 - 👾 a wide range of [**R Programming data analysis**](https://github.com/JJRyan0/code-R-notebooks-Rshiny-apps) code.
 
-- 🛠️ ETL SQL Server Project: Clean & Transform E-Commerce Orders:[**SQL scripts:**](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema.sql)
+- 🛠️ Azure Data Factory ETL Project: Clean & Transform E-Commerce Orders:[**SQL scripts:**](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema.sql)
   
 - 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report).
 - 📊 Repository with projects and visualisations built with [**Eclipse Jasper Soft report**](https://github.com/JJRyan0/jasper-soft-reports) designer, includes some useful [**how to documentation**](https://github.com/JJRyan0/jasper-soft-reports/tree/main/How%20to%20documents).
