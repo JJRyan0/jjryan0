@@ -22,6 +22,8 @@
 - 🧠 [**Machine learning system**](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) designed to categorise claims in order to speed up the claim denial or approval system in an accelerated automated way.
 
 - 👾 a wide range of [**R Programming data analysis**](https://github.com/JJRyan0/code-R-notebooks-Rshiny-apps) code.
+
+- 📈 Comparison of Gradient Boosting Machines OOB v.s Decision Tree Demo prediction accuracy using [**Sklearn:**](https://github.com/JJRyan0/gradient-boosting-machines-vs-decision-tree-demo-99.30-acc-sklearn/blob/master/Gradient%20Boosting%20Machines%20v.s%20%20Decision%20Tree%20Demo%2099.30%25%20Acc%20-%20Sklearn.ipynb)
   
 - 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report).
 - 📊 Repository with projects and visualisations built with [**Eclipse Jasper Soft report**](https://github.com/JJRyan0/jasper-soft-reports) designer, includes some useful [**how to documentation**](https://github.com/JJRyan0/jasper-soft-reports/tree/main/How%20to%20documents).
