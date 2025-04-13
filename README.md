@@ -28,6 +28,8 @@
 - ✅ IBM HR Analytics Employee Attrition & Performance [**Analysis:**](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/IBM%20Employee%20Attrition%20Prediction%20-%20Random%20Forests%20Algorithm.ipynb)
 
 - 📈 Comparison of Gradient Boosting Machines OOB v.s Decision Tree Demo prediction accuracy using [**Sklearn:**](https://github.com/JJRyan0/gradient-boosting-machines-vs-decision-tree-demo-99.30-acc-sklearn/blob/master/Gradient%20Boosting%20Machines%20v.s%20%20Decision%20Tree%20Demo%2099.30%25%20Acc%20-%20Sklearn.ipynb)
+
+- ⭐️ How do we predict future Credit card default payments using [**Logistic Regression:**](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/KFold%20CV-Credit%20Card%20Default%20Prediction%20-%20Logistic%20Regression.ipynb)
   
 - 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report).
 - 📊 Repository with projects and visualisations built with [**Eclipse Jasper Soft report**](https://github.com/JJRyan0/jasper-soft-reports) designer, includes some useful [**how to documentation**](https://github.com/JJRyan0/jasper-soft-reports/tree/main/How%20to%20documents).
