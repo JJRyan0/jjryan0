@@ -15,6 +15,8 @@
 
 - 🛠️ Azure Data Factory ETL Project: Clean & Transform E-Commerce Orders:[**SQL scripts:**](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema/blob/main/README.md)
 
+- ⚡️ Apache Spark (MLlib) - Extracting Text Features for TF-IDF analysis: [**Note book:**](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb)
+
 - 🤖[**Image Recognition App**](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) A neat cloud application which utilises python api calls to send json files to watson AI, the application was built to identify road junction types based on road characteristics and markings from a large number of traffic incident images to help the assessment of automated digital motor claims.
 
 - 🐍 Here’s a link to a range of [**python jupyter notebooks**](https://github.com/JJRyan0/john-python-jupyter-notebooks) with some data analysis projects, from gradient boosting machines, linear regression, logistic regression to random forest classification. Some additional [**data science projects**](https://gist.github.com/JJRyan0).
