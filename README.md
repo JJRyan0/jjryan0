@@ -1,52 +1,50 @@
-### Hi there 👋
+### 👋 Hi there!
 
+## 🚀 About Me
 
+I’m a **data-driven problem solver** who thrives at the intersection of data engineering, analytics, and business insight. I specialize in transforming raw data into **actionable intelligence** — empowering organizations to make smarter, faster decisions.
 
-## What I do 👨🏻‍💻
+### 🧠 What I Bring:
 
-🔍 I specialize in delivering data integration and business intelligence solutions that transform raw data into clear, actionable insights. My work is driven by a passion for uncovering the story behind the numbers — helping teams make smarter, data-informed decisions.
+- 🔍 **Data Integration & BI Expertise**: Designing and implementing ETL pipelines, curated schemas, and robust reporting layers.
+- 🤝 **Business Alignment**: I bridge the gap between technical teams and business stakeholders to deliver real, measurable outcomes.
+- 📈 **Analytics with Impact**: Passionate about turning complex datasets into clear, accessible, and strategic insights.
 
-🤝 I thrive in collaborative, cross-functional environments, aligning technical solutions with business goals. Whether it's building pipelines, designing dashboards, or solving complex data challenges, I bring a sharp analytical mindset and a results-oriented approach to everything I do.
+---
 
-📊 For me, it's not just about the data — it's about making it meaningful, impactful, and accessible to the people who need it most.
+## 💼 Featured Projects
 
+| Project | Description |
+|--------|-------------|
+| [🛠 Azure Data Factory ETL](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema/blob/main/README.md) | Cleaned and transformed raw e-commerce order data using ADF pipelines, staging layers, and SQL scripts. |
+| [⚡️ Spark MLlib TF-IDF](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing. |
+| [🤖 IBM Watson Visual Recognition](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) | Cloud app using Python and Watson API to detect road junction types from traffic images. |
+| [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | A collection of regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression). |
+| [🧠 ML for Insurance Claims](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) | Machine learning system to accelerate and automate claim approval/denial processes. |
+| [📉 Credit Default Prediction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/KFold%20CV-Credit%20Card%20Default%20Prediction%20-%20Logistic%20Regression.ipynb) | Built a logistic regression model to forecast default risk. |
+| [📈 BIRT & Jasper Reports](https://github.com/JJRyan0/jasper-soft-reports) | Created professional BI reports with sample data visualizations and documentation. |
 
-## Some Interesting projects of mine
+---
 
-- 🛠️ Azure Data Factory ETL Project: Clean & Transform E-Commerce Orders:[**SQL scripts:**](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema/blob/main/README.md)
+## 🎓 Education
 
-- ⚡️ Apache Spark (MLlib) - Extracting Text Features for TF-IDF analysis: [**Note book:**](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb)
+- 🎓 MSc, **Global Financial Information Systems** – [SETU](https://www.wit.ie/schools/business/school_of_business/msc_in_gfis)  
+- 🎓 Higher Diploma, **Data Analytics** – [National College of Ireland](http://courses.ncirl.ie/index.cfm/page/course/courseId/2372)  
+- 🎓 BSc, **Business** – South Eastern Technological University  
 
-- 🤖[**Image Recognition App**](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) A neat cloud application which utilises python api calls to send json files to watson AI, the application was built to identify road junction types based on road characteristics and markings from a large number of traffic incident images to help the assessment of automated digital motor claims.
+---
 
-- 🐍 Here’s a link to a range of [**python jupyter notebooks**](https://github.com/JJRyan0/john-python-jupyter-notebooks) with some data analysis projects, from gradient boosting machines, linear regression, logistic regression to random forest classification. Some additional [**data science projects**](https://gist.github.com/JJRyan0).
+## 📜 Certifications
 
-- 🧠 [**Machine learning system**](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) designed to categorise claims in order to speed up the claim denial or approval system in an accelerated automated way.
+- 📘 [**DP-203: Data Engineering on Microsoft Azure**](https://www.udemy.com/certificate/UC-66ebb2ee-c829-4ca3-9e92-0b86e3ae24d3/)
+- 🧬 [**Apache Kafka – Simplifying Data Pipelines**](https://www.credly.com/badges/105fd5cb-1750-4690-ab75-86aaf63de1e3/linked_in)
+- ☁️ [**Kubernetes on IBM Cloud**](https://www.credly.com/badges/a0d091ab-123b-435a-b48c-82cf2d8bc9a4/linked_in)
+- 🐍 [**Python for Data Science**](https://www.credly.com/badges/c79e4eb4-7871-4889-a4eb-bbddcf12d3ba/linked_in)
+- 🧱 [**dbt Fundamentals**](https://credentials.getdbt.com/8ff129f2-1223-47f4-85e9-06b5969bf1d4#acc.63xYluqf)
 
-- 👾 a wide range of [**R Programming data analysis**](https://github.com/JJRyan0/code-R-notebooks-Rshiny-apps) code.
+---
 
-- ✅ IBM HR Analytics Employee Attrition & Performance [**Analysis**](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/IBM%20Employee%20Attrition%20Prediction%20-%20Random%20Forests%20Algorithm.ipynb)
+## 📫 Let’s Connect
 
-- 📈 Comparison of Gradient Boosting Machines OOB v.s Decision Tree Demo prediction accuracy using [**Sklearn:**](https://github.com/JJRyan0/gradient-boosting-machines-vs-decision-tree-demo-99.30-acc-sklearn/blob/master/Gradient%20Boosting%20Machines%20v.s%20%20Decision%20Tree%20Demo%2099.30%25%20Acc%20-%20Sklearn.ipynb)
-
-- ⭐️ How do we predict future credit card default payments using [**Logistic Regression:**](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/KFold%20CV-Credit%20Card%20Default%20Prediction%20-%20Logistic%20Regression.ipynb)
-  
-- 📊 Repository with some sample Ecliple BIRT [**business intelligence reports**](https://github.com/JJRyan0/eclipse-birt-report).
-- 📊 Repository with projects and visualisations built with [**Eclipse Jasper Soft report**](https://github.com/JJRyan0/jasper-soft-reports) designer, includes some useful [**how to documentation**](https://github.com/JJRyan0/jasper-soft-reports/tree/main/How%20to%20documents).
-
-## Education
-
-👨🏻‍🎓Studied [**Data Analytics at National College of Ireland**](http://courses.ncirl.ie/index.cfm/page/course/courseId/2372).
-
-👨🏻‍🎓Studied an [**MSc in Global Finance Information Systems**](https://www.wit.ie/schools/business/school_of_business/msc_in_gfis) at South Eastern Technological University.
-
-👨🏻‍🎓 Studied a Bachelors Degree In Business at South Eastern Technological University.
-
-👏🏻 Some additional certifications recently achieved 
-
-- DP-203 - Data Engineering on Microsoft Azure: [**Certificate link**](https://www.udemy.com/certificate/UC-66ebb2ee-c829-4ca3-9e92-0b86e3ae24d3/)
-- Simplifying Data Pipelines with Apache Kafka [**Credly link**](https://www.credly.com/badges/105fd5cb-1750-4690-ab75-86aaf63de1e3/linked_in)
-- Operating Kubernetes on IBM Cloud [**Credly link**](https://www.credly.com/badges/a0d091ab-123b-435a-b48c-82cf2d8bc9a4/linked_in)
-- Python for Data Science [**Credly link**](https://www.credly.com/badges/c79e4eb4-7871-4889-a4eb-bbddcf12d3ba/linked_in)
-- dbt Fundamentals [**dbt certificate**](https://credentials.getdbt.com/8ff129f2-1223-47f4-85e9-06b5969bf1d4#acc.63xYluqf)
+If you're looking for a **results-driven data engineer or analyst** who can own the full data journey — from ingestion to insight — feel free to explore my repos or [connect with me on LinkedIn](https://www.linkedin.com/in/john-ryan-da/).
 
