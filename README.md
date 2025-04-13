@@ -22,7 +22,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | A collection of regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression). |
 | [🧠 ML for Insurance Claims](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) | Machine learning system to accelerate and automate claim approval/denial processes. |
 | [📉 Credit Default Prediction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/KFold%20CV-Credit%20Card%20Default%20Prediction%20-%20Logistic%20Regression.ipynb) | Built a logistic regression model to forecast default risk. |
-| [📈 BIRT & Jasper Reports](https://github.com/JJRyan0/jasper-soft-reports) | Created professional BI reports with sample data visualizations and documentation. |
+| [📈 Smart Kitchen Business Requirement Analysis](https://github.com/JJRyan0/business-analyst-projects/blob/main/Business%20Analysis%20Data%20Flow%20-%20Smart%20Kitchen.pdf) | Created professional report to document business requirements, data flows, moscow analysis, requirements verification and validation. |
 
 ---
 
