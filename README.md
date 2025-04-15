@@ -4,7 +4,7 @@
 
 I’m a **data-driven problem solver** who thrives at the intersection of data engineering, analytics, and business insight. I specialize in transforming raw data into **actionable intelligence** — empowering organizations to make smarter, faster decisions.
 
-### 🧠 What I Bring:
+### What I Bring:
 
 - 🔍 **Data Integration & BI Expertise**: Designing and implementing ETL pipelines, curated schemas, and robust reporting layers.
 - 🤝 **Business Alignment**: I bridge the gap between technical teams and business stakeholders to deliver real, measurable outcomes.
