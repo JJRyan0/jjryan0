@@ -16,7 +16,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 | Project | Description |
 |--------|-------------|
-| [🛠 Azure Data Factory ETL](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema/blob/main/README.md) | Cleaned and transformed raw e-commerce order data using ADF pipelines, staging layers, and SQL scripts. |
+| [🛠 Azure Data Factory ETL](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema/tree/main) | Cleaned and transformed raw e-commerce order data using ADF pipelines, staging layers, and SQL scripts. |
 | [🛠 dbt project for transforming NYC Taxi trip data using PostgreSQL.](https://github.com/JJRyan0/NYC-Taxi-ETL-with-dbt-Core/tree/main) | This is a sample dbt project for transforming NYC Taxi trip data using PostgreSQL.
 | [⚡️ Spark MLlib TF-IDF](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing. |
 | [🤖 IBM Watson Visual Recognition](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) | Cloud app using Python and Watson API to detect road junction types from traffic images. |
