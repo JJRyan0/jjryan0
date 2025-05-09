@@ -43,7 +43,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 | Project | Description |
 |--------|-------------|
-| [✅ Test Script Scenarios for RESful API](https://github.com/JJRyan0/rest_api_test_cases) | This Postman and JavaScript test suite verifies the reliability and performance of an image website's RESTful API by checking response time, data accuracy, and JSON structure. 
+| [✅ Test Script Scenarios for RESTful API](https://github.com/JJRyan0/rest_api_test_cases) | This Postman and JavaScript test suite verifies the reliability and performance of an image website's RESTful API by checking response time, data accuracy, and JSON structure. 
 | [☑️ FastAPI credit scoring application]( https://github.com/JJRyan0/credit_etl_ml_project/blob/main/main.py) | Exposed ML model as a REST API (FastAPI). This is best when model needs to score one record at a time in real-time predictions.| 
 
 ---
