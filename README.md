@@ -24,7 +24,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [🧠 ML - Ensemble methods (GBM, Decision Tree)](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Ensembles%20-%20Gradient%20Boosting%20Machines%20v.s%20Decision%20Tree%20ML%20Models.ipynb) | Built a machine learning system to evaluate ensemble methods - examination of improved performance by tuning the hyper-paramters learning rate using scikit-learn and pandas. |
 | [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of experimental  analysis on regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
 | [🌊 Wave Flux  - Feature Engineer Pipeline Steps](https://github.com/JJRyan0/wave_energy_flux_feature_pipeline/blob/main/Wave%20Flux%20%20-%20Feature%20Engineer%20Pipeline%20Steps%20V1.ipynb) | Extracting raw sensor data & calculting wave engery flux as a target columns from oceangraphic wave data collected from wave buoys off the coast of Ireland via MQTT protocols to identify new predictive measures for use of onshore ML platform performance.|
-
+| [ 📈 ML Model for Health Diagnosis Prediction ](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Machine%20Learning-Wisconson%20Breast%20Cancer%20Diagnosis%20Prediction.ipynb) | For the purpose of this analysis we will look to machine learning as a method to predict diagnosis of cancers. |
 ---
 
 ### ETL Pipelines
