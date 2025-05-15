@@ -32,7 +32,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 | Project | Description |
 |--------|-------------|
-| [📉 Healthcare Sentiment Analysis: NLP Project](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Sentiment%20Analysis%20on%20Healthcare%20Company%20Reviews%20NLP%20Project.ipynb) | Built a sentiment analysis classifier for healthcare feedback (e.g., patient reviews) using scikit-learn and NLTK, predicting positive/negative sentiment. Demonstrates NLP preprocessing, ML modeling, and MLOps for production-ready analytics. |
+| [📉 Sentiment Analysis on Healthcare Company Reviews: NLP Project](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Sentiment%20Analysis%20on%20Healthcare%20Company%20Reviews%20NLP%20Project.ipynb) | Built a sentiment analysis classifier for healthcare feedback (e.g., patient reviews) using scikit-learn and NLTK, predicting positive/negative sentiment. Demonstrates NLP preprocessing, ML modeling, and MLOps for production-ready analytics. |
 | [⚡️ PySpark MLlib TF-IDF Extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing tasks with PySpark MLlib. |
 | [ 💡 ML model for text/speech extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Python%20Text%20Mining-%20Sentiment%20Analysis%20-%20Naive%20Bayes%20MultinomialNB.ipynb) | Trained a text classifier to predict the post topic i.e is the post related to science/medicine |
 
