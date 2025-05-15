@@ -25,7 +25,17 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of experimental  analysis on regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
 | [🌊 Wave Flux  - Feature Engineer Pipeline Steps](https://github.com/JJRyan0/wave_energy_flux_feature_pipeline/blob/main/Wave%20Flux%20%20-%20Feature%20Engineer%20Pipeline%20Steps%20V1.ipynb) | Extracting raw sensor data & calculting wave engery flux as a target columns from oceangraphic wave data collected from wave buoys off the coast of Ireland via MQTT protocols to identify new predictive measures for use of onshore ML platform performance.|
 | [ 📈 ML Model for Health Diagnosis Prediction ](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Machine%20Learning-Wisconson%20Breast%20Cancer%20Diagnosis%20Prediction.ipynb) | For the purpose of this analysis we will look to machine learning as a method to predict diagnosis of cancers. |
-| [ 💡 ML model for text/speech extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Python%20Text%20Mining-%20Sentiment%20Analysis%20-%20Naive%20Bayes%20MultinomialNB.ipynb) | Trained a text classifier to predict the post topic i.e is the post related to science/medicine | 
+
+---
+
+### NLP Projects
+
+| Project | Description |
+|--------|-------------|
+| [📉 Healthcare Sentiment Analysis: NLP Project](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Healthcare_Sentiment_Analysis.ipynb) | Built a sentiment analysis classifier for healthcare feedback (e.g., patient reviews) using scikit-learn and NLTK, predicting positive/negative sentiment. Demonstrates NLP preprocessing, ML modeling, and MLOps for production-ready analytics. |
+| [⚡️ PySpark MLlib TF-IDF Extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing tasks with PySpark MLlib. |
+| [ 💡 ML model for text/speech extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Python%20Text%20Mining-%20Sentiment%20Analysis%20-%20Naive%20Bayes%20MultinomialNB.ipynb) | Trained a text classifier to predict the post topic i.e is the post related to science/medicine |
+
 ---
 
 ### ETL Pipelines
@@ -35,7 +45,6 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [🛠 Azure Data Factory ETL](https://github.com/JJRyan0/ETL_Raw_Transform_Curated_Schema/tree/main) | Cleaned and transformed raw e-commerce order data using ADF pipelines, staging layers, and SQL scripts. |
 | [🛠 dbt Project for NYC Taxi Data](https://github.com/JJRyan0/NYC-Taxi-ETL-with-dbt-Core/tree/main) | Sample dbt project for transforming NYC Taxi trip data using PostgreSQL. |
 | [💡 SQL Server MERGE with Hash Keys – SCD Type 2](https://github.com/JJRyan0/T_SQL_Scripts/blob/main/scd_type_2_hash_keys.md) | Demonstrates using SQL Server's `MERGE` with hash keys for Slowly Changing Dimensions (SCD Type 2), tracking changes in employee records. |
-| [⚡️ PySpark MLlib TF-IDF Extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing tasks with PySpark MLlib. |
 | [💡 DBT incremental model for SCD type 2 Customer Dimension](https://github.com/JJRyan0/dbt_scd2_customer_dim/tree/main) |  Incremental model for a historical load for Type 2 Slowly Changing Dimension (SCD) in dbt using SQL Server, Compareing full source to target, expire old records, insert new records. |
 | [⚡️Pandas - Slowly Changing Dimension (SCD) Type 1 ](https://github.com/JJRyan0/credit_risk_modeling_analysis/blob/main/Slowly%20Changing%20Dimension%20(SCD)%20Type%201%20in%20Pandas.ipynb) | Implement Slowly Changing Dimension (SCD) Type 1 in Pandas. Update the existing records with new information when applicable. If no changes are present, keep the existing data.|
 
