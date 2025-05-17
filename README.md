@@ -25,6 +25,8 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of experimental  analysis on regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
 | [🌊 Wave Flux  - Feature Engineer Pipeline Steps](https://github.com/JJRyan0/wave_energy_flux_feature_pipeline/blob/main/Wave%20Flux%20%20-%20Feature%20Engineer%20Pipeline%20Steps%20V1.ipynb) | Extracting raw sensor data & calculting wave engery flux as a target columns from oceangraphic wave data collected from wave buoys off the coast of Ireland via MQTT protocols to identify new predictive measures for use of onshore ML platform performance.|
 | [ 📈 ML Model for Health Diagnosis Prediction ](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Machine%20Learning-Wisconson%20Breast%20Cancer%20Diagnosis%20Prediction.ipynb) | For the purpose of this analysis we will look to machine learning as a method to predict diagnosis of cancers. |
+| [ 👾 NLP-Based Structured Data Extraction and Anomaly Detection for Healthcare](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/NLP-Based%20Anomaly%20Detection%20for%20Healthcare%20Documents.ipynb) | This project extracts structured Data from medical bills, discharge summaries, or insurance claims processed via OCR and EDI, extracting and analyzing MDC codes. This is a comprehensive project based on applying NLP to OCR and EDI systems for extracting structured data from healthcare documents, specifically incorporating Major Diagnostic Category (MDC) codes, using scikit-learn. |
+
 
 ---
 
