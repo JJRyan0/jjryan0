@@ -6,11 +6,11 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 
 ### What I Bring:
 
-- 🧠 **AI/ML & NLP Expertise**: Building end-to-end ML pipelines with scikit-learn, IBM Watson AI, and NLP for text/speech analytics, including OCR/EDI processing for operational efficiency.
-- 📈 **Customer & Finance Analytics for Impact**: Transforming unstructured data into actionable insights for personalized customer experiences.
-- ☁️ **Scalable Data Solutions**: Designing ETL/ELT pipelines with Azure Data Factory, DBT, and cloud platforms (Azure, IBM Cloud) to support real-time analytics.
-- 🤝 **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
-- 💙 **Healthcare Analytic Experience**: Committed to data-driven innovation in healthcare and logistics, inspired to enhance customer and patient outcomes.
+- **AI/ML & NLP Expertise**: Building end-to-end ML pipelines with scikit-learn, IBM Watson AI, and NLP for text/speech analytics, including OCR/EDI processing for operational efficiency.
+- **Customer & Finance Analytics for Impact**: Transforming unstructured data into actionable insights for personalized customer experiences.
+- **Scalable Data Solutions**: Designing ETL/ELT pipelines with Azure Data Factory, DBT, and cloud platforms (Azure, IBM Cloud) to support real-time analytics.
+- **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
+- **Healthcare Analytic Experience**: Committed to data-driven innovation in healthcare and logistics, inspired to enhance customer and patient outcomes.
 
 ---
 
