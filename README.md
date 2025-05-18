@@ -2,13 +2,15 @@
 
 ## About Me
 
-I’m a **data-driven problem solver** who thrives at the intersection of data engineering, analytics, and business insight. I specialize in transforming raw data into **actionable intelligence** — empowering organizations to make smarter, faster decisions.
+I’m a **Senior Data Analytics Professional** with 9+ years of experience delivering **AI-driven insights** in customer-focused analytics, passionate about leveraging data to improve lives and to apply my expertise in **ML/AI, NLP, and data engineering** to innovate in logistics and customer services.
 
 ### What I Bring:
 
-- 🔍 **Data Integration & ML Expertise**: Designing and implementing MLOps & ETL pipelines, Data models, Feature engineering, and robust reporting layers.
-- 🤝 **Business Alignment**: I bridge the gap between technical teams and business stakeholders to deliver real, measurable outcomes.
-- 📈 **Analytics with Impact**: Passionate about turning complex datasets into clear, accessible, and strategic insights.
+- 🧠 **AI/ML & NLP Expertise**: Building end-to-end ML pipelines with scikit-learn, IBM Watson AI, and NLP for text/speech analytics, including OCR/EDI processing for operational efficiency.
+- 📈 **Customer & Finance Analytics for Impact**: Transforming unstructured data into actionable insights for personalized customer experiences.
+- ☁️ **Scalable Data Solutions**: Designing ETL/ELT pipelines with Azure Data Factory, DBT, and cloud platforms (Azure, IBM Cloud) to support real-time analytics.
+- 🤝 **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
+- 💙 **Healthcare Analytic Experience**: Committed to data-driven innovation in healthcare and logistics, inspired to enhance customer and patient outcomes.
 
 ---
 
