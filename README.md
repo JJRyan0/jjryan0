@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a **Senior Data Analytics Professional** with 9+ years of experience delivering **AI-driven insights** in customer-focused analytics, passionate about leveraging data to improve lives and to apply my expertise in **ML/AI, NLP, and data engineering** to innovate in logistics and customer services.
+I’m a **Senior Data Analytics Professional** with 9+ years of experience delivering **AI-driven insights** in customer-focused analytics, passionate about leveraging data to improve lives and to apply my expertise in **ML/AI, NLP, and data engineering** to innovate in business and customer services.
 
 ### What I Bring:
 
