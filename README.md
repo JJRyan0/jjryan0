@@ -6,7 +6,7 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 
 ### What I Bring:
 
-- **AI/ML & NLP Expertise**: Building end-to-end ML pipelines with scikit-learn, IBM Watson AI, and NLP for text/speech analytics, including OCR/EDI processing for operational efficiency. [NLP Projects](https://github.com/JJRyan0#nlp-projects)
+- **AI/ML & NLP Expertise**: Building end-to-end ML pipelines with scikit-learn, IBM Watson AI, and NLP for text/speech analytics, including OCR/EDI processing for operational efficiency. [NLP Projects](https://github.com/JJRyan0#nlp-projects) & [ML projects](https://github.com/JJRyan0#machine-learning-projects)
 - **Customer & Finance Analytics for Impact**: Transforming unstructured data into actionable insights for personalized customer experiences.
 - **Scalable Data Solutions**: Designing ETL/ELT pipelines with Azure Data Factory, DBT, and cloud platforms (Azure, IBM Cloud) to support real-time analytics.
 - **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
