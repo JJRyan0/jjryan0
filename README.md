@@ -75,7 +75,7 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 | Project | Description |
 |--------|-------------|
 | [📈 Calculating Revenue Growth Percentage using SQL, Pandas, Python3 Functions](https://github.com/JJRyan0/credit_risk_modeling_analysis/blob/main/Calculating%20Revenue%20Growth%20Percent%20functions.ipynb)| This is a key financial metric that shows the rate at which a value (such as revenue, profit, or customer count) has increased or decreased compared to the previous month. |
-| [🏠 Smart Kitchen - Requirements & Product Design](https://github.com/JJRyan0/business-analyst-projects/blob/main/Business%20Analysis%20Data%20Flow%20-%20Smart%20Kitchen.pdf) | This documentation outlines the methods used for elicitation of requirements, formulates a list of requirements taken from all stakeholders, prioritization of requirements, document the data flow diagrams for a new product – codenamed ‘Kitchen 2020’ – as a single kitchen solution. | 
+| [🏠 Smart Kitchen - Requirements & Product Design](https://github.com/JJRyan0/business-analyst-projects/blob/main/Business%20Analysis%20Data%20Flow%20-%20Smart%20Kitchen.pdf) | This documentation outlines the methods used for elicitation of requirements, formulates a list of requirements taken from all stakeholders, prioritization of requirements, document the data flow diagrams for a new product, codenamed ‘Kitchen 2020’ as a single kitchen solution. | 
 
 
 ---
@@ -100,6 +100,6 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 
 ## 📫 Let’s Connect
 
-If you're looking for a **results-driven data engineer or analyst** who can own the full data journey — from ingestion to insight — feel free to explore my repos or [connect with me on LinkedIn](https://www.linkedin.com/in/john-ryan-da/).
+If you're looking for a **results-driven data engineer or analyst** who can own the full data journey, from ingestion to insight, feel free to explore my repos or [connect with me on LinkedIn](https://www.linkedin.com/in/john-ryan-da/).
 
 
