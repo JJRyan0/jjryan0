@@ -27,6 +27,12 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 | [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of experimental  analysis on regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
 | [🌊 Wave Flux  - Feature Engineer Pipeline Steps](https://github.com/JJRyan0/wave_energy_flux_feature_pipeline/blob/main/Wave%20Flux%20%20-%20Feature%20Engineer%20Pipeline%20Steps%20V1.ipynb) | Extracting raw sensor data & calculting wave engery flux as a target columns from oceangraphic wave data collected from wave buoys off the coast of Ireland via MQTT protocols to identify new predictive measures for use of onshore ML platform performance.|
 | [ 📈 ML Model for Health Diagnosis Prediction ](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Machine%20Learning-Wisconson%20Breast%20Cancer%20Diagnosis%20Prediction.ipynb) | For the purpose of this analysis we will look to machine learning as a method to predict diagnosis of cancers. |
+---
+
+### Cyber Security Projects
+
+| Project | Description |
+|--------|-------------|
 | [🚨 Anomaly Detection to flag suspicious login activity - MITRE ATT&CK Mapping ](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Anomaly%20Detection%20-%20Flag%20unusual%20Login%20Activity.ipynb) | Built a Python-based anomaly detection model using Isolation Forest to flag suspicious login behavior such as unusual login hours, new geolocations, and failed attempts. |
 ---
 
