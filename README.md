@@ -29,11 +29,12 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 | [ 📈 ML Model for Health Diagnosis Prediction ](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Machine%20Learning-Wisconson%20Breast%20Cancer%20Diagnosis%20Prediction.ipynb) | For the purpose of this analysis we will look to machine learning as a method to predict diagnosis of cancers. |
 ---
 
-### Cyber Security Projects
+### Cyber Security & Risk Mangement Projects
 
 | Project | Description |
 |--------|-------------|
 | [🚨 Anomaly Detection to flag suspicious login activity - MITRE ATT&CK Mapping ](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Anomaly%20Detection%20-%20Flag%20unusual%20Login%20Activity.ipynb) | Built a Python-based anomaly detection model using Isolation Forest to flag suspicious login behavior such as unusual login hours, new geolocations, and failed attempts. |
+| [🎯 Reducing False Positives in AML Screening ](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Reducing%20False%20Positives%20in%20AML%20Screening.md) | If a sanctions screening system was generating an excessive number of false positives, resulting in operational delays and unnecessary customer friction. To address this, combining feature engineering, rule tuning, and statistical evaluation would likely reduce the false positive rate while maintaining true positive performance.. |
 ---
 
 ### NLP Projects
