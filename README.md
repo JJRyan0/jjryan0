@@ -33,7 +33,8 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 
 | Project | Description |
 |--------|-------------|
-| [🚨 Anomaly Detection to flag suspicious login activity - MITRE ATT&CK Mapping ](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Anomaly%20Detection%20-%20Flag%20unusual%20Login%20Activity.ipynb) | Built a Python-based anomaly detection model using Isolation Forest to flag suspicious login behavior such as unusual login hours, new geolocations, and failed attempts. |
+| [🚨 Isolation Forest Anomaly Detection to flag suspicious login activity - MITRE ATT&CK Mapping ](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Anomaly%20Detection%20-%20Flag%20unusual%20Login%20Activity.ipynb) | Built a Python-based anomaly detection model using Isolation Forest to flag suspicious login behavior such as unusual login hours, new geolocations, and failed attempts. |
+| [ 📈 Bayesian Gaussian Mixture Model (GMM) - Detect Unusual Login Activity](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Security%20Threat%20Detection%20using%20Bayesian%20Gaussian%20Mixture%20Model%20(GMM).ipynb) | Built a threat detection model using Bayesian Gaussian Mixture Model (GMM) to flag suspicious login behavior such as unusual login hours, new geolocations, and failed attempts. |
 | [🎯 Reducing False Positives in AML Screening ](https://github.com/JJRyan0/JR_repo_anomaly_detection/blob/main/Reducing%20False%20Positives%20in%20AML%20Screening.md) | If a sanctions screening system was generating an excessive number of false positives, resulting in operational delays and unnecessary customer friction. To address this, combining feature engineering, rule tuning, and statistical evaluation would likely reduce the false positive rate while maintaining true positive performance.. |
 ---
 
