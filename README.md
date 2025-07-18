@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a **Senior Data Analytics Professional** with 9+ years of experience delivering **data-driven insights** in customer-focused analytics, passionate about leveraging data to improve lives and to apply my expertise in **ETL, Data Modelling, ML/AI, NLP, and data engineering** to innovate in business and customer services.
+I’m a **Senior Data Analytics Professional** with 9+ years of experience delivering **data-driven insights** in customer-focused analytics, passionate about leveraging data to improve lives and to apply my expertise in **KPI Reporting, Requirements translation,  ETL, Data Modelling, ML, and data engineering** to innovate in business and customer services.
 
 ### What I Bring:
 
@@ -10,7 +10,7 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 - **Customer & Finance Analytics for Impact**: Transforming unstructured data into actionable insights for personalized customer experiences.
 - **Scalable Data Solutions**: Designing ETL/ELT pipelines with Azure Data Factory, DBT, and cloud platforms (Azure, IBM Cloud) to support real-time analytics.
 - **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
-- **Healthcare Analytic Experience**: Committed to data-driven innovation in healthcare and, inspired to enhance customer and patient outcomes.
+- **Analytic Experience**: Committed to data-driven innovation in Finance, Education, Workday,  healthcare and, inspired to enhance customer and patient outcomes.
 
 ---
 
