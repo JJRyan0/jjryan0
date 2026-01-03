@@ -12,7 +12,13 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 - **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
 - **Analytic Experience**: Committed to data-driven innovation in Finance, Education, Workday,  healthcare and, inspired to enhance customer outcomes.
 
-**Authored: Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration**: This eBook is a collection of practical Workday tips based on real-world implementation and support experience. It focuses on the areas that most often cause confusion: reporting rules, calculated fields, security dependencies, and business process behavior. [Workday Tips Book Link](https://tinyurl.com/Workday-Tips)
+**Authored: Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration**: This eBook is a collection of practical Workday tips based on real-world implementation and support experience. It focuses on the areas that most often cause confusion: reporting rules, calculated fields, security dependencies, and business process behavior. 
+
+* [Workday Tips Book English Link](https://tinyurl.com/Workday-Tips) (Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration)
+
+* [Workday Tips Book Spanish Link](https://tinyurl.com/Workday-Tips-Spanish) (Consejos de Configuración y Reportes de Workday HCM: Guía práctica para reportes de RRHH y configuración del sistema )
+
+* [Workday Tips Book Portuguese Link](https://tinyurl.com/Workday-Tips-Portuguese) (Dicas de Relatórios e Configuração do Workday HCM: Orientações Práticas para Relatórios de RH e Configuração do Sistema (Portuguese Edition))
 
 ---
 
