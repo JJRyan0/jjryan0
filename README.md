@@ -12,6 +12,8 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 - **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
 - **Analytic Experience**: Committed to data-driven innovation in Finance, Education, Workday,  healthcare and, inspired to enhance customer outcomes.
 
+**Authored: Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration**: This eBook is a collection of practical Workday tips based on real-world implementation and support experience. It focuses on the areas that most often cause confusion: reporting rules, calculated fields, security dependencies, and business process behavior. [Workday Tips Book Link](https://tinyurl.com/Workday-Tips)
+
 ---
 
 ## 💼 Featured Projects
@@ -77,7 +79,6 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 |--------|-------------|
 | [📈 Calculating Revenue Growth Percentage using SQL, Pandas, Python3 Functions](https://github.com/JJRyan0/credit_risk_modeling_analysis/blob/main/Calculating%20Revenue%20Growth%20Percent%20functions.ipynb)| This is a key financial metric that shows the rate at which a value (such as revenue, profit, or customer count) has increased or decreased compared to the previous month. |
 | [🏠 Smart Kitchen - Requirements & Product Design](https://github.com/JJRyan0/business-analyst-projects/blob/main/Business%20Analysis%20Data%20Flow%20-%20Smart%20Kitchen.pdf) | This documentation outlines the methods used for elicitation of requirements, formulates a list of requirements taken from all stakeholders, prioritization of requirements, document the data flow diagrams for a new product, codenamed ‘Kitchen 2020’ as a single kitchen solution. | 
-
 
 ---
 
