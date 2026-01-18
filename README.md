@@ -16,12 +16,6 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 
 * [Workday Tips Book English Link](https://tinyurl.com/Workday-Tips) (Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration)
 
-* [Workday Tips Book Spanish Link](https://tinyurl.com/Workday-Tips-Spanish) (Consejos de Configuración y Reportes de Workday HCM: Guía práctica para reportes de RRHH y configuración del sistema )
-
-* [Workday Tips Book Portuguese Link](https://tinyurl.com/Workday-Tips-Portuguese) (Dicas de Relatórios e Configuração do Workday HCM: Orientações Práticas para Relatórios de RH e Configuração do Sistema (Portuguese Edition))
-
-* [Workday Report & Configuration Interview Questions Book Link](https://tinyurl.com/Workday-Interview-Questions) ( A Practical Questions and Model Answers for Workday HCM and Reporting Roles)
-
 ---
 
 ## 💼 Featured Projects
