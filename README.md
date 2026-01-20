@@ -14,7 +14,7 @@ I’m a **Senior Data Analytics Professional** with 9+ years of experience deliv
 
 **Authored: Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration**: This eBook is a collection of practical Workday tips based on real-world implementation and support experience. It focuses on the areas that most often cause confusion: reporting rules, calculated fields, security dependencies, and business process behavior. 
 
-* [Workday Tips Book English Link](https://tinyurl.com/Workday-Tips) (Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration)
+* [Workday Tips Book English Link](https://amzn.to/4bI94Fd) (Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration)
 
 ---
 
