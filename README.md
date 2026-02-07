@@ -2,19 +2,16 @@
 
 ## About Me
 
-I’m a **Senior Data Analytics Professional** with 9+ years of experience delivering **data-driven insights** in customer-focused analytics, passionate about leveraging data to improve lives and to apply my expertise in **KPI Reporting, Requirements translation,  ETL, Data Modelling, ML, and data engineering** to innovate in business and customer services.
+Dynamic and analytical data & business systems professional with 9+ years of hands-on experience building and scaling enterprise data platforms that power critical business decisions.
+
+I thrive on translating complex business requirements into robust, scalable data solutions, designing efficient data models, ETL/ELT pipelines, data governance, reporting systems, and analytical frameworks that deliver accurate, timely insights. Whether it's optimizing platform operations, enabling real-time data flows, or modernizing legacy systems to cloud-native architectures, my focus is always on driving efficiency, reducing costs, and supporting long-term growth.
 
 ### What I Bring:
 
-- **AI/ML & NLP Expertise**: Building end-to-end ML pipelines with scikit-learn, IBM Watson AI, and NLP for text/speech analytics, including OCR/EDI processing for operational efficiency. [NLP Projects](https://github.com/JJRyan0#nlp-projects) & [ML projects](https://github.com/JJRyan0#machine-learning-projects)
 - **Customer & Finance Analytics for Impact**: Transforming unstructured data into actionable insights for personalized customer experiences.
 - **Scalable Data Solutions**: Designing ETL/ELT pipelines with Azure Data Factory, DBT, and cloud platforms (Azure, IBM Cloud) to support real-time analytics.
 - **Collaborative Leadership**: Bridging technical and business teams to deliver measurable outcomes, recognized with IBM Watson Health’s People’s Choice Culture Award for cross-team knowledge sharing.
 - **Analytic Experience**: Committed to data-driven innovation in Finance, Education, Workday,  healthcare and, inspired to enhance customer outcomes.
-
-**Authored: Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration**: This eBook is a collection of practical Workday tips based on real-world implementation and support experience. It focuses on the areas that most often cause confusion: reporting rules, calculated fields, security dependencies, and business process behavior. 
-
-* [Workday Tips Book English Link](https://amzn.to/4bI94Fd) (Workday HCM Reporting & Configuration Tips: Practical Guidance for HR Reporting and System Configuration)
 
 ---
 
